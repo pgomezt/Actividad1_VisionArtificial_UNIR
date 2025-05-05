@@ -1,2 +1,6 @@
 # Actividad1_VisionArtificial_UNIR
 Análisis técnicas de mejora aplicadas a imágenes en condiciones de baja iluminación, utilizando el conjunto de datos *The Dark Face* (Rakshit, 2020). Se usaron:ajustes de: brillo, contraste, ecualización, transformación logarítmica, corrección gamma, detección de bordes (Sobel y Scharr), inversión de imagen (negativo) y centrado por media.
+
+Los objetivos principales de esta actividad fueron, por un lado, mejorar las imágenes mediante la aplicación de diversas técnicas de procesamiento previamente estudiadas; y por otro, realizar una comparación detallada de las técnicas para identificar sus limitaciones y afirmar los conceptos vistos en clase. Este enfoque integral no solo facilitó la aplicación práctica de los conceptos aprendidos, sino que también aumentó el conocimiento de la teoría y operaciones básicas detras de cada transformación o filtro.
+
+Los resultados evidencian mejoras significativas en la visibilidad de detalles y transformaciones que no están relacionadas directamente con la estética pero que pueden ser útiles en otros campos diferentes a la fotograf+ia y la comunicación. La combinación de métodos mostró mayor efectividad que su uso aislado.
